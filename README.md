@@ -7,6 +7,14 @@ Un bot de música y moderación multifuncional para Discord, construido desde ce
 
 ---
 
+# Si gustas puedes invitar a este bot de discord a tu servidor de discord sin problemas.
+
+https://discord.com/oauth2/authorize?client_id=1355347301689721056&permissions=3213312&integration_type=0&scope=bot+applications.commands
+
+Actualmente esta siendo hosteado en mi RSP 5 desde mi hogar.
+
+---
+
 ## 🎵 Características Principales
 
 * **Reproducción de Audio de Alta Calidad:** Soporte para YouTube y Spotify.
